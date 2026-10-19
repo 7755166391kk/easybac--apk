@@ -1,7 +1,7 @@
 {
   "appName": "EasyBAC — منصة البكالوريا المو",
   "appIcon": "",
-  "packageName": "com.hamzanajjar.easybacmnshalbkalwryaalmw",
+  "packageName": "com.manus.easyba",
   "versionCode": 1,
   "versionName": "1.0",
   "keystoreMode": "auto",
@@ -63,6 +63,6 @@
   "targetAllDevices": true,
   "authMethods": [],
   "websiteUrl": "https://easybac.manus.space/",
-  "generatedAt": "2026-10-19T01:15:08.961Z",
+  "generatedAt": "2026-10-19T01:19:19.243Z",
   "generator": "Smart Website to App Maker — Developer Hamza Najjar"
 }
