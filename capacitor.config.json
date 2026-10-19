@@ -3,7 +3,7 @@
   "appName": "EasyBAC — منصة البكالوريا المو",
   "webDir": "www",
   "server": {
-    "url": "https://easybac.manus.space/",
+    "url": "https://easybac.manus.space/?track=bac-d",
     "cleartext": false,
     "androidScheme": "https",
     "allowNavigation": [
